@@ -6,6 +6,7 @@
 
         static void Main(string[] args)
         {
+            не компилься
             Console.WriteLine(sum_number(1, 2));
         }
     }
