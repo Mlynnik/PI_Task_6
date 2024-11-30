@@ -5,7 +5,7 @@ VisualStudioVersion = 17.10.35004.147
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PI_Task_6", "PI_Task_6.csproj", "{67CA9365-B202-4DD6-A132-2A2E61154C62}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "..\TestProject1\TestProject1.csproj", "{BD36CF12-F16E-4D63-9953-70AA0CD0CCCD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestProject1", "..\TestProject1\TestProject1.csproj", "{BD36CF12-F16E-4D63-9953-70AA0CD0CCCD}"
 	ProjectSection(ProjectDependencies) = postProject
 		{67CA9365-B202-4DD6-A132-2A2E61154C62} = {67CA9365-B202-4DD6-A132-2A2E61154C62}
 	EndProjectSection
